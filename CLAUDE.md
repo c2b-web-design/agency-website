@@ -128,16 +128,6 @@ Multiple touch points for getting in touch:
 
 ---
 
-## Current Progress
-
-The project is being built in numbered steps. Current status: **through Step 10**.
-
-Steps completed so far establish the project foundation: repository setup, Next.js initialisation, TypeScript and Tailwind configuration, basic routing structure, and initial component scaffolding. Detailed step history is tracked in conversation context.
-
-When continuing work, always ask which step we are on before writing any code, to ensure continuity.
-
----
-
 ## Error Handling & Self-Improvement
 
 When something goes wrong — a build error, a layout that looks wrong, a feature that does not work as expected — handle it this way:
