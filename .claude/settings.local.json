@@ -10,7 +10,8 @@
       "Bash(git branch *)",
       "Bash(git push *)",
       "Bash(npx uipro-cli *)",
-      "PowerShell(git clone --depth=1 https://github.com/affaan-m/everything-claude-code.git \"$env:TEMP\\\\ecc-clone\" 2>&1)"
+      "PowerShell(git clone --depth=1 https://github.com/affaan-m/everything-claude-code.git \"$env:TEMP\\\\ecc-clone\" 2>&1)",
+      "PowerShell(npx get-shit-done-cc --claude --global --minimal 2>&1)"
     ]
   }
 }
