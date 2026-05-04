@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (initialized 2026-05-03)
 
 **Core value:** Convert visitors into paying clients through an unforgettable first impression that proves the agency's quality before a single word is read
-**Current focus:** Phase 1 — plans written, ready to execute
+**Current focus:** Phase 2 — Hero Section (Phase 1 complete)
 
 ---
 
@@ -13,8 +13,8 @@ See: .planning/PROJECT.md (initialized 2026-05-03)
 
 | Phase | Name | Status | Plans | Notes |
 |-------|------|--------|-------|-------|
-| 1 | Foundation + Layout Shell | ✅ Ready to execute | 3 plans | Run /gsd-execute-phase 1 |
-| 2 | Hero Section | ○ Pending | — | Requires Phase 1 |
+| 1 | Foundation + Layout Shell | ✅ Complete | 3 plans | Verified 2026-05-04 |
+| 2 | Hero Section | ◆ Up next | — | Requires Phase 1 ✓ |
 | 3 | Video Showcase Gallery | ○ Pending | — | — |
 | 4 | Client Website Analyser | ○ Pending | — | — |
 | 5 | Contact & Lead Capture | ○ Pending | — | — |
@@ -49,3 +49,4 @@ See: .planning/PROJECT.md (initialized 2026-05-03)
 | 2026-05-03 | Project initialized via /gsd-new-project |
 | 2026-05-04 | Phase 1 context gathered via /gsd-discuss-phase 1 |
 | 2026-05-04 | Phase 1 plans written via /gsd-plan-phase 1 (3 plans: brand-tokens, nav-footer, route-shells) |
+| 2026-05-04 | Phase 1 executed and verified — all 6 requirements (BRAND-01-03, LAYOUT-01-03) confirmed |
