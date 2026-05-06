@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useEffect, useState } from "react"
@@ -42,10 +43,17 @@ export default function Nav() {
         {/* Logo */}
         <Link
           href="/"
-          className="text-gold font-display font-bold text-xl tracking-tight hover:opacity-80 transition-opacity duration-150"
+          className="flex items-center hover:opacity-80 transition-opacity duration-150"
           aria-label="C2B Web Design — Home"
         >
-          C2B
+          <Image
+            src="/C2B-LogoTranspatent.png"
+            alt="C2B Web Design"
+            width={160}
+            height={44}
+            className="h-11 w-auto"
+            priority
+          />
         </Link>
 
         {/* Desktop links */}
